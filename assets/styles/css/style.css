@@ -3,5 +3,8 @@ body header {
   justify-content: center;
   text-align: center;
 }
+body main ul {
+  list-style-type: none;
+}
 
 /*# sourceMappingURL=style.css.map */
